@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Registration for cloud computing internship</h1>
+    <h1>Registration for cloud computing internship 2026 Batch</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
