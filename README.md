@@ -224,5 +224,3 @@ http://<EC2-Public-IP>:8086/Registration-App
 - AWS ECS/EKS Deployment
 - Monitoring using Prometheus & Grafana
 - Notifications using Slack/Email
-
-itory.
